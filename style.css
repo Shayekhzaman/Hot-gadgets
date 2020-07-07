@@ -1,0 +1,48 @@
+.logo{
+    padding-top: 20px;
+}
+.bar{
+    padding-top: 20px;
+
+}
+.buy-now-button{
+    border: none;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 15px;
+
+}
+.btn-highlight{
+    color: goldenrod;
+}
+#product{
+    padding-top: 50px;
+}
+.laptop-bottom{
+    padding-top: 50px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px grey;
+}
+.phnbotom{
+    padding-bottom: 50px;
+}
+.btn{
+    margin-left: 90px;
+}
+.last-part{
+    text-align: center;
+    padding: 70px 0;
+}
+.part2, .part3{
+   margin:0px 0px 35px 100px;
+}
+.part1{
+    margin-top: 95px;
+   
+}
+.part1, .part2, .part3{
+    box-shadow: 10px 10px 20px gray;
+}
