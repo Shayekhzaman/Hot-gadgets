@@ -34,15 +34,21 @@
 }
 .last-part{
     text-align: center;
-    padding: 70px 0;
+   margin-top: 70px;
 }
-.part2, .part3{
-   margin:0px 0px 35px 100px;
+
+.first-image{
+    background-color:white;
+    padding:25px 20px;
+    margin:150px 0 0 100px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px;
 }
-.part1{
-    margin-top: 95px;
-   
-}
-.part1, .part2, .part3{
-    box-shadow: 10px 10px 20px gray;
+.second-image{
+    background-color: white;
+    padding: 25px 20px;
+    margin: 50px 0 0 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px;
+    
 }
