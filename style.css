@@ -1,9 +1,12 @@
 .logo{
-    padding-top: 20px;
+    width:15%;
 }
 .bar{
     padding-top: 20px;
 
+}
+.smartphone{
+    border: ;
 }
 .buy-now-button{
     border: none;
@@ -40,21 +43,20 @@
 .first-image{
     background-color:white;
     padding:25px 20px;
-    margin:150px 0 0 100px;
+     margin-top:150px;
     border-radius: 10px;
     box-shadow: 5px 5px 20px;
 }
 .second-image{
     background-color: white;
     padding: 25px 20px;
-    margin: 50px 0 0 30px;
+    margin-top: 50px;
+    margin-left: 30px;
     border-radius: 10px;
     box-shadow: 5px 5px 20px;
     
 }
-.perfume{
-    width: 70%;
-}
+
 .side-image{
     margin-top: 20px;
 }
